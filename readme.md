@@ -13,4 +13,4 @@ Some of my professions, in order of appearance
   
 and from today on (25.11.2024) I want to improve my codingskills in webdevelopment.
 
-I will tell you more as soon as it happens...
+I will tell you more as soon as it happens...:tada:
