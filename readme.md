@@ -1,8 +1,9 @@
 # Hello!
 
 Welcome to my Git-Hub-Profile.
-It's somehow so far not so crowded, but I work to chnage this.
-Some of my pr0fessions, in order of appearance
+It's somehow so far not so crowded, but I work hard to change this.
+
+Some of my professions, in order of appearance
 - Typesetter
 - Media-Designer
 - SEO-Expert
