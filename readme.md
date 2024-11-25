@@ -1,7 +1,8 @@
 # Hello!
 
-Welcome to my Git-Hub-Profile.
-It's somehow so far not so crowded, but I work hard to change this.
+Welcome to my Git-Hub-Profile
+
+😿 It's somehow so far not so crowded, but I work hard to change this.
 
 Some of my professions, in order of appearance
 - Typesetter
